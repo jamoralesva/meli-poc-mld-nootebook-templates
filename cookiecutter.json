@@ -1,0 +1,7 @@
+{
+    "project_name": "project_name",
+    "repo_name": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+    "author_name": "alejandro56664-2",
+    "description": "Template for PoC in INSMLD Team",
+    "python_interpreter": ["python3", "python"]
+}
